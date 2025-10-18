@@ -58,5 +58,5 @@
 - Improving financial transparency through dashboards
 # Repository Structure
 - Images:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Dashboard%20Image.png"</a>
-
-
+- Dashboard:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Dashboard%20project.pbix"</a>
+- Dataset:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Income%20and%20Expense%20dataset.xlsx"</a>

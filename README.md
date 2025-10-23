@@ -1,5 +1,5 @@
 # Sales_Dashboard_Project
-- This Power BI project provides a financial performance overview by analyzing monthly income, expenses, and profit &amp; loss (P&amp;L) data. It helps users quickly identify top expense        categories, income sources, and net profit trends over time.
+- This is Power BI project which provides a financial performance overview by analyzing monthly income, expenses, and profit & loss according     to monthly sales of the products.It helps users quickly identify top expense categories, income sources, and net profit trends over time.
 
 # Objective
 
@@ -16,7 +16,7 @@
 
 - Power BI Desktop – for dashboard creation
 
-- Excel (Sheet1) – as the data source
+- Kaggle(website) – as the data source
 
 - DAX & Power Query – for calculations and data cleaning
 
@@ -56,7 +56,9 @@
 - Designing interactive visuals and filters
 
 - Improving financial transparency through dashboards
+
 # Repository Structure
+
 - Images:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Dashboard%20Image.png"</a>
 - Dashboard:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Dashboard%20project.pbix"</a>
 - Dataset:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Income%20and%20Expense%20dataset.xlsx"</a>

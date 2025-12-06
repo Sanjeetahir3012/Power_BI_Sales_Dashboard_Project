@@ -1,64 +1,65 @@
-# Sales_Dashboard_Project
-- This is Power BI project which provides a financial performance overview by analyzing monthly income, expenses, and profit & loss according     to monthly sales of the products.It helps users quickly identify top expense categories, income sources, and net profit trends over time.
+## Sales_Dashboard_Project
+  - This is Power BI project which provides a financial performance overview by analyzing monthly income, expenses, and profit & loss according     to monthly sales
+     of the products.It helps users quickly identify top expense categories, income sources, and net profit trends over time.
 
-# Objective
+## Objective
 
-- To visualize monthly income and expense trends
+  - To visualize monthly income and expense trends
 
-- Track profit & loss (P&L) in real time
+  - Track profit & loss (P&L) in real time
 
-- Understand which areas contribute most to expenses
+  - Understand which areas contribute most to expenses
 
-- Help management make data-driven financial decisions
-
-
-# Tools & Technologies Used
-
-- Power BI Desktop – for dashboard creation
-
-- Kaggle(website) – as the data source
-
-- DAX & Power Query – for calculations and data cleaning
+  - Help management make data-driven financial decisions
 
 
-# Dashboard Features
+## Tools & Technologies Used
 
-- Month Filter: Allows selection of any month (Jan–Dec)
+  - Power BI Desktop – for dashboard creation
 
-- P&L Indicator: Displays net profit (e.g., ₹26K)
+  - Kaggle(website) – as the data source
 
-- Category-wise Expense Analysis: Rent, Internet, Stationary, etc.
-
-- Income Breakdown: Business, Online, Consulting, Workshop
-
-- Income vs Expense Comparison Chart
+  - DAX & Power Query – for calculations and data cleaning
 
 
-# Key Insights
+## Dashboard Features
 
-- Total Income: ₹46,000
+  - Month Filter: Allows selection of any month (Jan–Dec)
 
-- Total Expense: ₹20,000
+  - P&L Indicator: Displays net profit (e.g., ₹26K)
 
-- Net Profit: ₹26,000
+  - Category-wise Expense Analysis: Rent, Internet, Stationary, etc.
 
-- Highest Expense Category: Rent (₹14,000)
+  - Income Breakdown: Business, Online, Consulting, Workshop
 
-- Major Income Source: Business Income (₹30,000)
+  - Income vs Expense Comparison Chart
 
 
-# Learnings
+## Key Insights
 
-- Using Power Query for data transformation
+  - Total Income: ₹46,000
 
-- Creating custom DAX measures for profit/loss
+  - Total Expense: ₹20,000
 
-- Designing interactive visuals and filters
+  - Net Profit: ₹26,000
 
-- Improving financial transparency through dashboards
+  - Highest Expense Category: Rent (₹14,000)
 
-# Repository Structure
+  - Major Income Source: Business Income (₹30,000)
 
-- Images:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Dashboard%20Image.png"</a>
-- Dashboard:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Dashboard%20project.pbix"</a>
-- Dataset:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Income%20and%20Expense%20dataset.xlsx"</a>
+
+## Learnings
+
+  - Using Power Query for data transformation
+  
+  - Creating custom DAX measures for profit/loss
+  
+  - Designing interactive visuals and filters
+
+  - Improving financial transparency through dashboards
+
+## Repository Structure
+
+  - Images:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Dashboard%20Image.png"</a>
+  - Dashboard:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Dashboard%20project.pbix"</a>
+  - Dataset:<a href"https://github.com/Sanjeetahir3012/Power_BI_Sales_Dashboard_Project/blob/main/Income%20and%20Expense%20dataset.xlsx"</a>
